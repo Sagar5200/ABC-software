@@ -1,0 +1,52 @@
+.body{
+    color:#ffff;
+}
+
+/* == align == */
+.text-align-center{text-align: center!important;}
+.align-self-center{align-self: center;}
+.align-items-center{align-items: center;}
+.align-items-mid{align-items: end!important;}
+
+/* == Margin == */
+.margin-10px{margin: 10px;}
+.margin-15px{margin: 15px}
+.margin-left-right-top-10px{margin-left: 10px;margin-right: 10px;margin-top: 10px;}
+.margin-top-15px{margin-top: 15px;}
+.margin-bottom-15px{margin-bottom: 15px;}
+.margin-left{margin-left: 140px;}
+.margin-top-5px{margin-top: 5px;}
+
+/* ===border== */
+.border-top-black{border-top: 2px solid black;}
+
+/* == width == */
+.w-100{width: 100%!important}
+
+/* Review Style Css */
+.review-container{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.review-form{
+    padding: 5%;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+}
+.review-form h2{
+    text-align: center;
+    /* border: 1px solid; */
+    padding: 5px 5x 2px 5px;
+    color: rgb(0, 0, 0);
+    /* background-color: blue; */
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.review-form h5{
+    text-align: center;
+    /* border: 1px solid; */
+    padding: 5px;
+    color: rgb(0, 0, 0);
+    /* background-color: blue; */
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
